@@ -1,22 +1,19 @@
-run
-___
+#run
 
 sublime text 2 plugin
 
-usage
-___
+#usage
 
 change directory -> sublime text 2 ***Packages*** Directory
 ```
 git clone https://github.com/kamiyaowl/run.git
 ```
 
-SHIFT + Command + P -> Input Run
+SHIFT + Command + P -> Keyboard Input *Run*
 
-setting
-___
+#setting
 
-please append to setting.json
+please edit *setting.json*
 
 ```
 "ext" {
