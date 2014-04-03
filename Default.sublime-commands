@@ -1,0 +1,6 @@
+[
+	{
+		"caption" : "Run : Execute Current File",
+		"command" : "run"
+	}
+]
